@@ -15,4 +15,3 @@ A high-performance, modular web application built with React and Tailwind CSS, f
 2. Install: `npm install`
 3. Run: `npm run dev`
 
-4. 
